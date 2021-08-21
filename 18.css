@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #fad60c, #b10af3, #f85910, #103af7, #006494);
+    color: white;
+}
+img{
+    width: 350px;
+    height: 350px;
+}
+#logo{
+    height: 350px;
+}
+#movie{
+    height: 300px;
+    width: 350px;
+}
+
+.sp{
+    margin: 5px;
+}
+p{
+    font-size: 22px;
+    color: black;
+    font-weight: bold;
+    font-family: cursive;
+}
